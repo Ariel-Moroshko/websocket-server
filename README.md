@@ -1,10 +1,6 @@
-# WebSocket Project
-
-A WebSocket server and client implementation.
+# Node.js WebSocket Server Implementation
 
 ## Installation
-
-3. Install dependencies:
 
 ```bash
 npm install
